@@ -1,6 +1,6 @@
-clss ContatsController < ApplicationController
+class ContactsController < ApplicationController
     def new
-        enc
+        
     end
     
     def CreateContacts
